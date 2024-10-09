@@ -1,0 +1,13 @@
+{
+  "name": "tes_1",
+  "version": "1.0.0",
+  "scripts": {
+    "star": "echo \"Ejecutando el script star\""
+  } ,
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "cross-env": "^7.0.3"
+  }
+}
